@@ -1,7 +1,7 @@
 Distributed_BitCoin_Server-Client-Implementation
 ====================================
 
-Implementing BitCoin type Distributed Server client Implementation Using Scala.
+Implementing BitCoin type Distributed Server client system Using Scala.
 
 
 Explaining the Server Client Model :
